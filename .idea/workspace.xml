@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="Greatest" />
+      <module name="Greatest.app" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66264a1d-857e-4e93-94fa-77bd93679506" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release_旋轉中心校正5成且平移正常且沒有縮放.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release_旋轉中心校正回原尺寸且平移正常且沒有縮放.apk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release_旋轉中心校正回原尺寸且平移錯誤且沒有縮放.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release_旋轉中心沒校正且平移正常且沒有縮放.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release_旋轉中心沒校正且平移錯誤且沒有縮放.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/native-lib.h" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/native-lib.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greatest/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greatest/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/.transforms/7c98be4c4c88bcc699ef2b9ccbc7da4e.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/.transforms/7c98be4c4c88bcc699ef2b9ccbc7da4e/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/.transforms/d347d46b192134b77f6122addcb60e3c.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/.transforms/d347d46b192134b77f6122addcb60e3c/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/.transforms/e7aec89da7dcfdf39c3fde01baa55df1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/.transforms/e7aec89da7dcfdf39c3fde01baa55df1/classes/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/generated/aidl_source_output_dir/debug/out/org/opencv/engine/OpenCVEngineInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/generated/aidl_source_output_dir/release/out/org/opencv/engine/OpenCVEngineInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/generated/source/buildConfig/debug/org/opencv/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/generated/source/buildConfig/release/org/opencv/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/aar_metadata/debug/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/aar_metadata/release/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/annotation_processor_list/release/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/compile_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/compile_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/compile_r_class_jar/release/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/compile_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/compile_symbol_list/release/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/packageReleaseAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/incremental/packageReleaseResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/AsyncServiceHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/AsyncServiceHelper$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/AsyncServiceHelper$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/AsyncServiceHelper$3$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/AsyncServiceHelper$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/AsyncServiceHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/BaseLoaderCallback$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/BaseLoaderCallback$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/BaseLoaderCallback$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/BaseLoaderCallback$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/BaseLoaderCallback$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/BaseLoaderCallback$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/BaseLoaderCallback$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/BaseLoaderCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/Camera2Renderer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/Camera2Renderer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/Camera2Renderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraBridgeViewBase$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraBridgeViewBase$CvCameraViewFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraBridgeViewBase$CvCameraViewListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraBridgeViewBase$CvCameraViewListener2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraBridgeViewBase$CvCameraViewListenerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraBridgeViewBase$ListItemAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraBridgeViewBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraGLRendererBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraGLSurfaceView$CameraTextureListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraGLSurfaceView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/CameraRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/FpsMeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/InstallCallbackInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCamera2View$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCamera2View$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCamera2View$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCamera2View$JavaCamera2Frame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCamera2View$JavaCameraSizeAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCamera2View.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCameraView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCameraView$CameraWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCameraView$JavaCameraFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCameraView$JavaCameraSizeAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/JavaCameraView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/LoaderCallbackInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/OpenCVLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/StaticHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/android/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/calib3d/Calib3d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/calib3d/StereoBM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/calib3d/StereoMatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/calib3d/StereoSGBM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Algorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Core$MinMaxLocResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Core.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/CvException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/CvType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/DMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/KeyPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Mat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfByte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfDMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfFloat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfFloat4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfFloat6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfInt4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfKeyPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfPoint2f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfPoint3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfPoint3f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfRect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfRect2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/MatOfRotatedRect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Point3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Range.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Rect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Rect2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/RotatedRect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Scalar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/Size.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/TermCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/core/TickMeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/dnn/ClassificationModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/dnn/DetectionModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/dnn/DictValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/dnn/Dnn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/dnn/KeypointsModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/dnn/Layer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/dnn/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/dnn/Net.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/dnn/SegmentationModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/engine/OpenCVEngineInterface$Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/engine/OpenCVEngineInterface$Stub$Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/engine/OpenCVEngineInterface$Stub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/engine/OpenCVEngineInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/AKAZE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/AgastFeatureDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/BFMatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/BOWImgDescriptorExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/BOWKMeansTrainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/BOWTrainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/BRISK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/DescriptorMatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/FastFeatureDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/Feature2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/Features2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/FlannBasedMatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/GFTTDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/KAZE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/MSER.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/ORB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/Params.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/features2d/SimpleBlobDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/imgcodecs/Imgcodecs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/imgproc/CLAHE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/imgproc/GeneralizedHough.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/imgproc/GeneralizedHoughBallard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/imgproc/GeneralizedHoughGuil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/imgproc/Imgproc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/imgproc/LineSegmentDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/imgproc/Moments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/imgproc/Subdiv2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/ANN_MLP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/Boost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/DTrees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/EM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/KNearest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/LogisticRegression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/Ml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/NormalBayesClassifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/ParamGrid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/RTrees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/SVM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/SVMSGD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/StatModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/ml/TrainData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/objdetect/BaseCascadeClassifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/objdetect/CascadeClassifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/objdetect/HOGDescriptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/objdetect/Objdetect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/objdetect/QRCodeDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/osgi/OpenCVInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/osgi/OpenCVNativeLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/AlignExposures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/AlignMTB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/CalibrateCRF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/CalibrateDebevec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/CalibrateRobertson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/MergeDebevec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/MergeExposures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/MergeMertens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/MergeRobertson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/Photo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/Tonemap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/TonemapDrago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/TonemapMantiuk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/photo/TonemapReinhard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/utils/Converters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/BackgroundSubtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/BackgroundSubtractorKNN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/BackgroundSubtractorMOG2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/DISOpticalFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/DenseOpticalFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/FarnebackOpticalFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/KalmanFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/SparseOpticalFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/SparsePyrLKOpticalFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/VariationalRefinement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/video/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/videoio/VideoCapture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/videoio/VideoWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/debug/classes/org/opencv/videoio/Videoio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/AsyncServiceHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/AsyncServiceHelper$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/AsyncServiceHelper$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/AsyncServiceHelper$3$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/AsyncServiceHelper$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/AsyncServiceHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/BaseLoaderCallback$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/BaseLoaderCallback$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/BaseLoaderCallback$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/BaseLoaderCallback$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/BaseLoaderCallback$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/BaseLoaderCallback$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/BaseLoaderCallback$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/BaseLoaderCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/Camera2Renderer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/Camera2Renderer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/Camera2Renderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraBridgeViewBase$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraBridgeViewBase$CvCameraViewFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraBridgeViewBase$CvCameraViewListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraBridgeViewBase$CvCameraViewListener2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraBridgeViewBase$CvCameraViewListenerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraBridgeViewBase$ListItemAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraBridgeViewBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraGLRendererBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraGLSurfaceView$CameraTextureListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraGLSurfaceView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/CameraRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/FpsMeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/InstallCallbackInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCamera2View$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCamera2View$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCamera2View$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCamera2View$JavaCamera2Frame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCamera2View$JavaCameraSizeAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCamera2View.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCameraView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCameraView$CameraWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCameraView$JavaCameraFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCameraView$JavaCameraSizeAccessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/JavaCameraView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/LoaderCallbackInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/OpenCVLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/StaticHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/android/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/calib3d/Calib3d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/calib3d/StereoBM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/calib3d/StereoMatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/calib3d/StereoSGBM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Algorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Core$MinMaxLocResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Core.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/CvException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/CvType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/DMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/KeyPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Mat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfByte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfDMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfFloat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfFloat4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfFloat6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfInt4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfKeyPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfPoint2f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfPoint3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfPoint3f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfRect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfRect2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/MatOfRotatedRect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Point3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Range.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Rect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Rect2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/RotatedRect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Scalar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/Size.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/TermCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/core/TickMeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/dnn/ClassificationModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/dnn/DetectionModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/dnn/DictValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/dnn/Dnn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/dnn/KeypointsModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/dnn/Layer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/dnn/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/dnn/Net.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/dnn/SegmentationModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/engine/OpenCVEngineInterface$Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/engine/OpenCVEngineInterface$Stub$Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/engine/OpenCVEngineInterface$Stub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/engine/OpenCVEngineInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/AKAZE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/AgastFeatureDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/BFMatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/BOWImgDescriptorExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/BOWKMeansTrainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/BOWTrainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/BRISK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/DescriptorMatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/FastFeatureDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/Feature2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/Features2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/FlannBasedMatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/GFTTDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/KAZE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/MSER.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/ORB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/Params.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/features2d/SimpleBlobDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/imgcodecs/Imgcodecs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/imgproc/CLAHE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/imgproc/GeneralizedHough.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/imgproc/GeneralizedHoughBallard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/imgproc/GeneralizedHoughGuil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/imgproc/Imgproc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/imgproc/LineSegmentDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/imgproc/Moments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/imgproc/Subdiv2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/ANN_MLP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/Boost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/DTrees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/EM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/KNearest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/LogisticRegression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/Ml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/NormalBayesClassifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/ParamGrid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/RTrees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/SVM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/SVMSGD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/StatModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/ml/TrainData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/objdetect/BaseCascadeClassifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/objdetect/CascadeClassifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/objdetect/HOGDescriptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/objdetect/Objdetect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/objdetect/QRCodeDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/osgi/OpenCVInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/osgi/OpenCVNativeLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/AlignExposures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/AlignMTB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/CalibrateCRF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/CalibrateDebevec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/CalibrateRobertson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/MergeDebevec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/MergeExposures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/MergeMertens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/MergeRobertson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/Photo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/Tonemap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/TonemapDrago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/TonemapMantiuk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/photo/TonemapReinhard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/utils/Converters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/BackgroundSubtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/BackgroundSubtractorKNN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/BackgroundSubtractorMOG2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/DISOpticalFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/DenseOpticalFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/FarnebackOpticalFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/KalmanFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/SparseOpticalFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/SparsePyrLKOpticalFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/VariationalRefinement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/video/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/videoio/VideoCapture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/videoio/VideoWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/javac/release/classes/org/opencv/videoio/Videoio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/library_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/library_manifest/release/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/local_only_symbol_list/release/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/navigation_json/release/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/packaged_manifests/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/packaged_manifests/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/packaged_res/debug/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/packaged_res/release/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/runtime_library_classes_jar/release/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_java/build/tmp/compileReleaseJavaWithJavac/source-classes-mapping.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../key" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m0eQRBxTog1U5svAIjVzedGHLx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="Greatest.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Galaxy_Nexus_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-22T12:36:04.066Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/Users/ethan/Downloads/Android_studio/Greatest/opencv_java/src/main/java/org/opencv/android/CameraBridgeViewBase.java_SELECTED" value="CameraBridgeViewBase" />
+    <property name="android-custom-view/Users/ethan/Downloads/Android_studio/Greatest/opencv_java/src/main/java/org/opencv/android/JavaCamera2View.java_SELECTED" value="JavaCamera2View" />
+    <property name="android-custom-view/Users/ethan/Downloads/Android_studio/Greatest/opencv_java/src/main/java/org/opencv/android/JavaCameraView.java_SELECTED" value="JavaCameraView" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="multi-representation-preview/Users/ethan/Downloads/Android_studio/Greatest/opencv_java/src/main/java/org/opencv/android/CameraBridgeViewBase.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/ethan/Downloads/Android_studio/Greatest/opencv_java/src/main/java/org/opencv/android/JavaCamera2View.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/ethan/Downloads/Android_studio/Greatest/opencv_java/src/main/java/org/opencv/android/JavaCameraView.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/jniLibs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Greatest.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="opencv_java" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Greatest.opencv_java" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66264a1d-857e-4e93-94fa-77bd93679506" name="Default Changelist" comment="" />
+      <created>1608634918428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608634918428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="788" y="320" key="#PSD" timestamp="1608636024591">
+      <screen x="0" y="23" width="1920" height="1103" />
+    </state>
+    <state x="788" y="320" key="#PSD/0.23.1920.1103@0.23.1920.1103" timestamp="1608636024591" />
+    <state x="960" y="182" key="#opencv_java" timestamp="1608636084400">
+      <screen x="0" y="23" width="1920" height="1103" />
+    </state>
+    <state x="960" y="182" key="#opencv_java/0.23.1920.1103@0.23.1920.1103" timestamp="1608636084400" />
+    <state x="918" y="123" width="902" height="908" key="AVDManager" timestamp="1610863015662">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state x="385" y="116" width="902" height="903" key="AVDManager/0.23.1920.1103@0.23.1920.1103" timestamp="1610702926677" />
+    <state x="918" y="123" width="902" height="908" key="AVDManager/0.23.1920.1108@0.23.1920.1108" timestamp="1610863015662" />
+    <state x="918" y="123" width="902" height="908" key="AVDManager/0.23.1920.1109@0.23.1920.1109" timestamp="1610366975945" />
+    <state x="918" y="123" width="902" height="914" key="AVDManager/0.23.1920.1112@0.23.1920.1112" timestamp="1610042393031" />
+    <state x="966" y="336" key="AndroidCreateResourceDirectoryDialog" timestamp="1608637829220">
+      <screen x="0" y="23" width="1920" height="1103" />
+    </state>
+    <state x="966" y="336" key="AndroidCreateResourceDirectoryDialog/0.23.1920.1103@0.23.1920.1103" timestamp="1608637829220" />
+    <state x="966" y="336" key="AndroidCreateResourceFileDialog" timestamp="1608637706392">
+      <screen x="0" y="23" width="1920" height="1103" />
+    </state>
+    <state x="966" y="336" key="AndroidCreateResourceFileDialog/0.23.1920.1103@0.23.1920.1103" timestamp="1608637706392" />
+    <state width="1876" height="305" key="GridCell.Tab.0.bottom" timestamp="1608864202333">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state width="1040" height="263" key="GridCell.Tab.0.bottom/0.23.1920.1103@0.23.1920.1103" timestamp="1608637600233" />
+    <state width="1736" height="305" key="GridCell.Tab.0.bottom/0.23.1920.1108@0.23.1920.1108" timestamp="1608778081400" />
+    <state width="1876" height="305" key="GridCell.Tab.0.bottom/0.23.1920.1109@0.23.1920.1109" timestamp="1608864202333" />
+    <state width="1876" height="305" key="GridCell.Tab.0.center" timestamp="1608864202330">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state width="1040" height="263" key="GridCell.Tab.0.center/0.23.1920.1103@0.23.1920.1103" timestamp="1608637600233" />
+    <state width="1736" height="305" key="GridCell.Tab.0.center/0.23.1920.1108@0.23.1920.1108" timestamp="1608778081400" />
+    <state width="1876" height="305" key="GridCell.Tab.0.center/0.23.1920.1109@0.23.1920.1109" timestamp="1608864202330" />
+    <state width="1876" height="305" key="GridCell.Tab.0.left" timestamp="1608864202328">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state width="1040" height="263" key="GridCell.Tab.0.left/0.23.1920.1103@0.23.1920.1103" timestamp="1608637600232" />
+    <state width="1736" height="305" key="GridCell.Tab.0.left/0.23.1920.1108@0.23.1920.1108" timestamp="1608778081399" />
+    <state width="1876" height="305" key="GridCell.Tab.0.left/0.23.1920.1109@0.23.1920.1109" timestamp="1608864202328" />
+    <state width="1876" height="305" key="GridCell.Tab.0.right" timestamp="1608864202332">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state width="1040" height="263" key="GridCell.Tab.0.right/0.23.1920.1103@0.23.1920.1103" timestamp="1608637600233" />
+    <state width="1736" height="305" key="GridCell.Tab.0.right/0.23.1920.1108@0.23.1920.1108" timestamp="1608778081400" />
+    <state width="1876" height="305" key="GridCell.Tab.0.right/0.23.1920.1109@0.23.1920.1109" timestamp="1608864202331" />
+    <state x="539" y="215" key="SettingsEditor" timestamp="1608809164201">
+      <screen x="0" y="23" width="1920" height="1112" />
+    </state>
+    <state x="539" y="213" key="SettingsEditor/0.23.1920.1103@0.23.1920.1103" timestamp="1608641033054" />
+    <state x="539" y="215" key="SettingsEditor/0.23.1920.1112@0.23.1920.1112" timestamp="1608809164201" />
+    <state x="755" y="501" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610868466376">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state x="755" y="501" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1108@0.23.1920.1108" timestamp="1610868466376" />
+    <state x="970" y="237" key="psd.add.module.dependency.panel.dimension" timestamp="1608636023537">
+      <screen x="0" y="23" width="1920" height="1103" />
+    </state>
+    <state x="970" y="237" key="psd.add.module.dependency.panel.dimension/0.23.1920.1103@0.23.1920.1103" timestamp="1608636023537" />
+  </component>
+</project>

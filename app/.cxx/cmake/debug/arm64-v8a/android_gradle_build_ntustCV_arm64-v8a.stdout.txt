@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/ethan/Downloads/Android_studio/Greatest/app/.cxx/cmake/debug/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/ntustCV.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library /Users/ethan/Downloads/Android_studio/Greatest/app/build/intermediates/cmake/debug/obj/arm64-v8a/libntustCV.so

@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/Users/ethan/Downloads/Android_studio/Greatest/app/src/main/cpp/CMakeLists.txt",
+    "/Users/ethan/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/ethan/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/ethan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/ethan/Downloads/Android_studio/Greatest/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/ethan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/ethan/Downloads/Android_studio/Greatest/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ntustCV-Debug-x86": {
+      "artifactName": "ntustCV",
+      "buildCommand": "/Users/ethan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/ethan/Downloads/Android_studio/Greatest/app/.cxx/cmake/debug/x86\" ntustCV",
+      "abi": "x86",
+      "output": "/Users/ethan/Downloads/Android_studio/Greatest/app/build/intermediates/cmake/debug/obj/x86/libntustCV.so",
+      "runtimeFiles": [
+        "/Users/ethan/Downloads/Android_studio/Greatest/app/src/main/jniLibs/x86/libopencv_java4.so"
+      ]
+    }
+  }
+}
